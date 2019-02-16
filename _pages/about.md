@@ -13,10 +13,10 @@ redirect_from:
 ## Alessandra Lie Fujii
 PhD candidate at École normale supérieure de Cachan (France) with financing of ParexGroup. 
 
-# Education
+## Education
 - Civil engineer (2013) : Escola Politécnica da Universidade de São Paulo
 
-# Experience
+## Experience
 - ( 02/2014 - Present ) - Laboratoire de Mécanique et Technologie - ENS Paris-Saclay (Paris)
   - Supervisor: Mohend Chaouche, Phd (Academic) and Anne Daubresse (Industry)
   - Project: Adhesive properties and interfacial rheology of adhesive mortars
@@ -30,7 +30,7 @@ PhD candidate at École normale supérieure de Cachan (France) with financing of
   - Financing: Alcoa América Latina
   
   
-  # External Links
+  ## External Links
   [LinkedIn Profile](http://linkedin.com/in/alfujii)
   [Lattes Curriculum](http://lattes.cnpq.br/7932148707851149)
   
