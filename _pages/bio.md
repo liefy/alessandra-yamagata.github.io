@@ -31,9 +31,9 @@ PhD candidate at École normale supérieure de Cachan (France) with financing of
   - Financing: Alcoa América Latina
   
   
-  ## External Links
-  [LinkedIn Profile](http://linkedin.com/in/alfujii)
-  [Lattes Curriculum](http://lattes.cnpq.br/7932148707851149)
-  
+## External Links
+[LinkedIn Profile](http://linkedin.com/in/alfujii)
+[Lattes Curriculum](http://lattes.cnpq.br/7932148707851149)
+
   
   
