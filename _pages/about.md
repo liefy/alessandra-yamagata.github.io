@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Alessandra Yamagata's webpage"
+title: ""
 excerpt: "Alessandra Yamagata"
 author_profile: true
 redirect_from: 
