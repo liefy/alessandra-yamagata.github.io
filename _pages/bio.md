@@ -15,10 +15,11 @@ redirect_from:
 PhD candidate at École normale supérieure de Cachan (France) with financing of ParexGroup. 
 
 ## Education
+- PhD in Civil Engineering (2018) : École Normale Supérieure Paris-Saclay
 - Civil engineer (2013) : Escola Politécnica da Universidade de São Paulo
 
 ## Experience
-- ( 02/2014 - Present ) - Laboratoire de Mécanique et Technologie - ENS Paris-Saclay (Paris)
+- ( 02/2014 - 12/2018 ) - Laboratoire de Mécanique et Technologie - ENS Paris-Saclay (Paris)
   - Supervisor: Mohend Chaouche, Phd (Academic) and Anne Daubresse (Industry)
   - Project: Adhesive properties and interfacial rheology of adhesive mortars
   - Financing: ParexGroup
