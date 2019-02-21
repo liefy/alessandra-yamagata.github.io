@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <h1>
-    Welcome to Alessandra's page!
-  </h1>
-</p>
-  
-  
+<h1 align="center">
+  Welcome to Alessandra's page!
+</h1>
