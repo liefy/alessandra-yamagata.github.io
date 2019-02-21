@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 <p align="center">
-  # Welcome to Alessandra's page!
+  <h1>
+    Welcome to Alessandra's page!
+  </h1>
 </p>
   
   
