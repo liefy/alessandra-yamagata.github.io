@@ -11,8 +11,7 @@ redirect_from:
 
 
 # Biographical summary
-## Alessandra Lie Fujii
-PhD candidate at École normale supérieure de Cachan (France) with financing of ParexGroup. 
+## Alessandra Lie Fujii Yamagata
 
 ## Education
 - PhD in Civil Engineering (2018) : École Normale Supérieure Paris-Saclay
@@ -30,7 +29,6 @@ PhD candidate at École normale supérieure de Cachan (France) with financing of
   - Parallel projects: Developing of new concepts of formulation in coating mortars (Partnership between Escola Politécnica and Votorantim Cimentos);
   - Evaluation of commercial additives used to replace lime in mortars (Partnership between Escola Politécnica da USP and Associação Brasileira dos Produtores de Cal (ABPC).
   - Financing: Alcoa América Latina
-  
   
 ## External Links
 - [LinkedIn Profile](http://linkedin.com/in/alfujii)
