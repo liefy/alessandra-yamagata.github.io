@@ -19,7 +19,7 @@ redirect_from:
 
 ## Experience
 - ( 02/2014 - 12/2018 ) - Laboratoire de Mécanique et Technologie - ENS Paris-Saclay (Paris)<br/>
-    PhD Candidate
+    PhD Candidate<br/>
     Supervisor: Mohend Chaouche, Phd (Academic) and Anne Daubresse (Industry)<br/>
     Project: Adhesive properties and interfacial rheology of adhesive mortars<br/>
     Financing: ParexGroup<br/>
