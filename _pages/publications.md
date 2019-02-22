@@ -10,7 +10,7 @@ author_profile: true
 2. R.C.O. Romano, A.L. Fujii, R.B. Souza, M.S. Takeashi, R.G. Pileggi, M.A. Cincotto, Monitoring hydration of ordinary Portland cement with bauxite residue, Ceramica. 62 (2016). (in portuguese) [ [download](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0366-69132016000300215) ]
 3. Alessandra Lie Fujii, Danilo dos Reis Torres, Roberto Cesar de Oliveira Romano, Maria Alba Cincotto, Rafael Giuliano Pileggi. "Impact of superplasticizer on the hardening of slag Portland cement blended with red mud." Construction and Building Materials, v. 101, part 1, p.432-439, 2015. [ [download](http://www.sciencedirect.com/science/article/pii/S0950061815304785) ]
 4. Fábio A. Cardoso, Alessandra L. Fujii, Rafael G. Pileggi, Mohend Chaouche. "Parallel-plate rotational rheometry of cement paste: Influence of the squeeze velocity during gap positioning." Cement and Concrete Research 75 (2015): 66-74. [ [download](http://www.sciencedirect.com/science/article/pii/S0008884615001167) ]
-5. Danilo dos Reis Torres, Alessandra L. Fujii, Roberto Cesar de Oliveira Romano, Rafael Giuliano Pillegi. "Impact of the air entrainment path on the properties of materials formulated with Portland cement." Ambiente Construído (Online), v. 14, p. 141-152, 2014. [ [download](http://www.scielo.br/scielo.php?pid=S1678-86212014000200010&script=sci_arttext) ]
+5. Danilo dos Reis Torres, Alessandra L. Fujii, Roberto Cesar de Oliveira Romano, Rafael Giuliano Pillegi. "Impact of the air entrainment path on the properties of materials formulated with Portland cement." Ambiente Construído (Online), v. 14, p. 141-152, 2014. (in portuguese) [ [download](http://www.scielo.br/scielo.php?pid=S1678-86212014000200010&script=sci_arttext) ]
 
 
 # Conferences
