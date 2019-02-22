@@ -30,8 +30,8 @@ redirect_from:
   Financing: Alcoa América Latina
   
 ## External Links
-- [LinkedIn Profile](http://linkedin.com/in/alfujii)
-- [Lattes Curriculum](http://lattes.cnpq.br/7932148707851149)
+[LinkedIn Profile](http://linkedin.com/in/alfujii)
+[Lattes Curriculum](http://lattes.cnpq.br/7932148707851149)
 
   
   
