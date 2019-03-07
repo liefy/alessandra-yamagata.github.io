@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [ [Full Manuscript](https://tel.archives-ouvertes.fr/tel-01990594) ]
+
 [Phd Summary](http://fujii-yamagata.com/files/ResearchSummary.pdf)
 
 
