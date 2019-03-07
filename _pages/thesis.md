@@ -11,7 +11,7 @@ redirect_from:
 
 [ [Full Manuscript](https://tel.archives-ouvertes.fr/tel-01990594) ]
 
-[Phd Summary](http://fujii-yamagata.com/files/ResearchSummary.pdf)
+[ [Phd Summary](http://fujii-yamagata.com/files/ResearchSummary.pdf) ]
 
 
 
