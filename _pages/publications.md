@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Publications - Articles
-1. Alessandra L. Fujii-Yamagata, Fábio A. Cardoso, Anne Daubresse, Evelyne Prat, Mohend Chaouche. "Skin formation in adhesive mortars evaluated by MRI and interfacial rheology." Cement Concrete Composites, 2019. [ [Link](https://www.sciencedirect.com/science/article/pii/S0958946518305420) ]
+1. Alessandra L. Fujii-Yamagata, Fábio A. Cardoso, Vincent Sarou-Kanian, Anne Daubresse, Evelyne Prat, Mohend Chaouche. "Skin formation in adhesive mortars evaluated by MRI and interfacial rheology." Cement Concrete Composites, 2019. [ [Link](https://www.sciencedirect.com/science/article/pii/S0958946518305420) ]
 2. Roberto Cesar de Oliveira Romano, Alessandra L. Fujii, R.B. Souza, Mario S. Takeashi, Rafael G. Pileggi, Maria Alba Cincotto. "Monitoring hydration of ordinary Portland cement with bauxite residue." Ceramica, 62 (2016). (in portuguese) [ [Link](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0366-69132016000300215) ]
 3. Alessandra Lie Fujii, Danilo dos Reis Torres, Roberto Cesar de Oliveira Romano, Maria Alba Cincotto, Rafael Giuliano Pileggi. "Impact of superplasticizer on the hardening of slag Portland cement blended with red mud." Construction and Building Materials, v. 101, part 1, p.432-439, 2015. [ [Link](http://www.sciencedirect.com/science/article/pii/S0950061815304785) ]
 4. Fábio A. Cardoso, Alessandra L. Fujii, Rafael G. Pileggi, Mohend Chaouche. "Parallel-plate rotational rheometry of cement paste: Influence of the squeeze velocity during gap positioning." Cement and Concrete Research 75 (2015): 66-74. [ [Link](http://www.sciencedirect.com/science/article/pii/S0008884615001167) ]
