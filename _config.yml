@@ -75,12 +75,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alessandra Yamagata"
+  name             : "Alessandra Yamagata, PhD"
   avatar           : "profile.JPEG"
-  bio              : "PhD"
-  location         : "Denver/CO USA"
-  employer         :
-  googlescholar    : https://scholar.google.com/citations?user=upNiD7sAAAAJ&hl=pt-BR
+  bio              : "Postdoctoral Research Associate"
+  location         : "Richland/WA USA"
+  employer         : "Pacific Northwest National Laboratory"
+  googlescholar    : https://scholar.google.com/citations?user=upNiD7sAAAAJ
   email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
