@@ -18,6 +18,9 @@ redirect_from:
 - Civil engineer (2013) : Escola Politécnica da Universidade de São Paulo
 
 ## Experience
+- ( 01/2020 - Present ) - Radiological Materials Group, Pacific Northwest National Laboratory, Richland, USA
+    Postdoctoral Research Associate
+    Projects: Solid secondary waste and Radiological waste immobilization using cementitious materials
 - ( 02/2014 - 12/2018 ) - Laboratoire de Mécanique et Technologie - ENS Paris-Saclay (Paris)<br/>
     PhD Candidate<br/>
     Supervisor: Mohend Chaouche, Phd (Academic) and Anne Daubresse (Industry)<br/>
